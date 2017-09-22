@@ -1,0 +1,54 @@
+C:\Git\ScratchPadBot\ScratchPadBot\bin\Bot Application1.dll.config
+C:\Git\ScratchPadBot\ScratchPadBot\bin\Bot Application1.dll
+C:\Git\ScratchPadBot\ScratchPadBot\bin\Bot Application1.pdb
+C:\Git\ScratchPadBot\ScratchPadBot\bin\Autofac.dll
+C:\Git\ScratchPadBot\ScratchPadBot\bin\Chronic.dll
+C:\Git\ScratchPadBot\ScratchPadBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Git\ScratchPadBot\ScratchPadBot\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.dll
+C:\Git\ScratchPadBot\ScratchPadBot\bin\Microsoft.Bot.Builder.dll
+C:\Git\ScratchPadBot\ScratchPadBot\bin\Microsoft.Bot.Connector.dll
+C:\Git\ScratchPadBot\ScratchPadBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Git\ScratchPadBot\ScratchPadBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Git\ScratchPadBot\ScratchPadBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Git\ScratchPadBot\ScratchPadBot\bin\Newtonsoft.Json.dll
+C:\Git\ScratchPadBot\ScratchPadBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Git\ScratchPadBot\ScratchPadBot\bin\System.Net.Http.Formatting.dll
+C:\Git\ScratchPadBot\ScratchPadBot\bin\System.Web.Http.dll
+C:\Git\ScratchPadBot\ScratchPadBot\bin\System.Web.Http.WebHost.dll
+C:\Git\ScratchPadBot\ScratchPadBot\bin\Autofac.xml
+C:\Git\ScratchPadBot\ScratchPadBot\bin\Microsoft.Bot.Builder.xml
+C:\Git\ScratchPadBot\ScratchPadBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Git\ScratchPadBot\ScratchPadBot\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.xml
+C:\Git\ScratchPadBot\ScratchPadBot\bin\Microsoft.Bot.Connector.xml
+C:\Git\ScratchPadBot\ScratchPadBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Git\ScratchPadBot\ScratchPadBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Git\ScratchPadBot\ScratchPadBot\bin\Newtonsoft.Json.xml
+C:\Git\ScratchPadBot\ScratchPadBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Git\ScratchPadBot\ScratchPadBot\bin\System.Net.Http.Formatting.xml
+C:\Git\ScratchPadBot\ScratchPadBot\bin\System.Web.Http.xml
+C:\Git\ScratchPadBot\ScratchPadBot\bin\System.Web.Http.WebHost.xml
+C:\Git\ScratchPadBot\ScratchPadBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Git\ScratchPadBot\ScratchPadBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Git\ScratchPadBot\ScratchPadBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Git\ScratchPadBot\ScratchPadBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Git\ScratchPadBot\ScratchPadBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Git\ScratchPadBot\ScratchPadBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Git\ScratchPadBot\ScratchPadBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Git\ScratchPadBot\ScratchPadBot\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Git\ScratchPadBot\ScratchPadBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Git\ScratchPadBot\ScratchPadBot\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Git\ScratchPadBot\ScratchPadBot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Git\ScratchPadBot\ScratchPadBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Git\ScratchPadBot\ScratchPadBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Git\ScratchPadBot\ScratchPadBot\bin\ar\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Git\ScratchPadBot\ScratchPadBot\bin\cs\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Git\ScratchPadBot\ScratchPadBot\bin\de-dE\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Git\ScratchPadBot\ScratchPadBot\bin\en\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Git\ScratchPadBot\ScratchPadBot\bin\es\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Git\ScratchPadBot\ScratchPadBot\bin\fa\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Git\ScratchPadBot\ScratchPadBot\bin\fr\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Git\ScratchPadBot\ScratchPadBot\bin\ja\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Git\ScratchPadBot\ScratchPadBot\bin\zh-hans\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Git\ScratchPadBot\ScratchPadBot\obj\Debug\ScratchPadBot.csprojResolveAssemblyReference.cache
+C:\Git\ScratchPadBot\ScratchPadBot\obj\Debug\Bot Application1.dll
+C:\Git\ScratchPadBot\ScratchPadBot\obj\Debug\Bot Application1.pdb
